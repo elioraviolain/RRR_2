@@ -1,0 +1,14 @@
+---
+title: "My Webpage"
+author: "Eliora"
+date: "2 December 2025"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+```
+
+* This is my webpage created using R
+* My name is **Eliora Violain Buyamin** 
+* I am a *PhD student*
